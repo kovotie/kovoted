@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Owned by Kovo"];
+const statusMessages = ["owned by kovo"];
 
 
 let currentIndex = 0;
